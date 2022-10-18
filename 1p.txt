@@ -1,4 +1,4 @@
-138.128.59.129	9058		 
+I138.128.59.129	9058		 
 45.155.68.129	8133		 
 185.199.228.220	7300		 
 185.199.231.45	8382		 
@@ -8,3 +8,69 @@
 154.95.36.199	6893		
 185.199.229.156	7492		
 2.56.119.93	5074	
+194.146.42.66:7497	SOCKS5	Elite (HIA)	Kazakhstan	mc-37.hoster.kz (LLP Kompaniya Hoster.KZ)	1.013	70%		5 mins ago
+72.49.49.11:31034	SOCKS5	Elite (HIA)	United States (Cincinnati)	mh1-dsl-72-49-49-11.fuse.net (FUSE-NET)	6.79	85%		20 mins ago
+65.207.32.196:1080	SOCKS5	Elite (HIA)	United States (Chester)	65.207.32.196 (UUNET)	1.906	new +		24 mins ago
+54.38.242.224:31143	SOCKS5	Elite (HIA)	France	224.ip-54-38-242.eu (OVH SAS)	5.096	31%		24 mins ago
+98.162.25.23:4145	SOCKS5	Elite (HIA)	United States	ip98-162-25-23.om.om.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.24	86%		24 mins ago
+98.188.47.132:4145	SOCKS5	Elite (HIA)	United States (Omaha)	98.188.47.132 (ASN-CXA-ALL-CCI-22773-RDC)	1.254	77%		26 mins ago
+3.26.168.69:5000	SOCKS5	Elite (HIA)	Australia (Sydney)	ec2-3-26-168-69.ap-southeast-2.compute.amazonaws.com (AMAZON-02)	2.378	25%		35 mins ago
+82.115.19.187:1080	SOCKS5	Elite (HIA)	Germany (Frankfurt am Main)	82.115.19.187 (BitCommand LLC)	1.228	67%		37 mins ago
+192.252.208.67:14287	SOCKS5	Elite (HIA)	United States	192.252.208.67 (PERFORMIVE)	1.274	95%		38 mins ago
+68.71.249.153:48606	SOCKS5	Elite (HIA)	United States	68.71.249.153 (ZEROLAG)	5.766	64%		4 hours ago
+51.83.140.70:8181	SOCKS5	Elite (HIA)	Poland (Warsaw) !!!	ns31098818.ip-51-83-140.eu (OVH SAS)	13.949	37%		4 hours ago
+51.222.13.193:10084	SOCKS5	Elite (HIA)	Canada	vps-dfb47a8e.vps.ovh.ca (OVH SAS)	3.867	29%		4 hours ago
+174.75.211.222:4145	SOCKS5	Elite (HIA)	United States	174.75.211.222 (ASN-CXA-ALL-CCI-22773-RDC)	1.328	77%		4 hours ago
+208.102.51.6:58208	SOCKS5	Elite (HIA)	United States (Alexandria)	dsl-208-102-51-6.fuse.net (FUSE-NET)	2.171	84%		7 hours ago
+62.171.166.158:11744	SOCKS5	Elite (HIA)	Germany (Nuremberg)	vmi377071.contaboserver.net (Contabo GmbH)	6.611	33%		7 hours ago
+64.33.150.161:8111	SOCKS5	Elite (HIA)	United States (Bruce)	bruce-dsl2-004-ws-33.dynamic.bruce.airstreamcomm.net (AIRSTREAMCOMM-NET)	8.755	67%		7 hours ago
+68.71.254.6:4145	SOCKS5	Elite (HIA)	United States	68.71.254.6 (ZEROLAG)	3.776	68%		7 hours ago
+51.83.190.248:19050	SOCKS5	Elite (HIA)	France !!!	ip248.ip-51-83-190.eu (OVH SAS)	1.405	8%		7 hours ago
+202.149.89.67:7999	SOCKS5	Elite (HIA)	Indonesia	202.149.89.67 (Jl. Raya Pasar Minggu no 99D)	4.67	20%		7 hours ago
+174.77.111.198:49547	SOCKS5	Elite (HIA)	United States (Tulsa)	174.77.111.198 (ASN-CXA-ALL-CCI-22773-RDC)	1.328	59%		7 hours ago
+98.162.96.53:10663	SOCKS5	Elite (HIA)	United States	ip98-162-96-53.sd.sd.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.36	62%		7 hours ago
+68.183.25.78:55418	SOCKS5	Elite (HIA)	United States (North Bergen)	68.183.25.78 (DIGITALOCEAN-ASN)	12.247	100%		7 hours ago
+72.221.232.155:4145	SOCKS5	Elite (HIA)	United States	ip72-221-232-155.sd.sd.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.339	88%		7 hours ago
+165.154.75.108:3512	SOCKS5	Elite (HIA)	Hong Kong (Central)	165.154.75.108 (UCLOUD INFORMATION TECHNOLOGY HK LIMITED)	11.227	28%		8 hours ago
+192.252.216.81:4145	SOCKS5	Elite (HIA)	United States (Los Angeles)	192.252.216.81 (PERFORMIVE)	1.263	100%		8 hours ago
+167.172.138.43:21781	SOCKS5	Elite (HIA)	United States (North Bergen)	167.172.138.43 (DIGITALOCEAN-ASN)	19.134	83%		8 hours ago
+92.119.123.36:7497	SOCKS5	Elite (HIA)	Hungary	92.119.123.36 (RackForest Kft.)	1.516	17%		8 hours ago
+37.221.193.221:11482	SOCKS5	Elite (HIA)	Germany !!!	v2202204141805185920.supersrv.de (netcup GmbH)	1.565	33%		8 hours ago
+137.74.173.77:39337	SOCKS5	Elite (HIA)	France	77.ip-137-74-173.eu (OVH SAS)	4.344	33%		9 hours ago
+116.202.183.72:34602	SOCKS5	Elite (HIA)	Germany !!!	static.72.183.202.116.clients.your-server.de (Hetzner Online GmbH)	4.816	50%		9 hours ago
+144.76.99.207:16004	SOCKS5	Elite (HIA)	Germany !!!	static.207.99.76.144.clients.your-server.de (Hetzner Online GmbH)	4.23	18%		9 hours ago
+14.225.255.194:10801	SOCKS5	Elite (HIA)	VietNam (Hanoi)	14.225.255.194 (VIETNAM POSTS AND TELECOMMUNICATIONS GROUP)	2.468	80%		9 hours ago
+72.221.164.34:60671	SOCKS5	Elite (HIA)	United States	ip72-221-164-34.sd.sd.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.35	83%		11 hours ago
+184.181.217.201:4145	SOCKS5	Elite (HIA)	United States	184.181.217.201 (ASN-CXA-ALL-CCI-22773-RDC)	1.355	89%		11 hours ago
+192.252.215.5:16137	SOCKS5	Elite (HIA)	United States	atlanta-1.cdn77.com (PERFORMIVE)	1.386	97%		11 hours ago
+88.198.165.115:48139	SOCKS5	Elite (HIA)	Germany	static.88.198.165.115.clients.your-server.de (Hetzner Online GmbH)	17.596	14%		11 hours ago
+174.77.111.196:4145	SOCKS5	Elite (HIA)	United States (Tulsa)	174.77.111.196 (ASN-CXA-ALL-CCI-22773-RDC)	1.345	76%		11 hours ago
+167.99.180.31:29277	SOCKS5	Elite (HIA)	Canada (Toronto)	kootenay1.ca (DIGITALOCEAN-ASN)	9.372	50%		12 hours ago
+184.181.217.194:4145	SOCKS5	Elite (HIA)	United States	184.181.217.194 (ASN-CXA-ALL-CCI-22773-RDC)	2.175	98%		12 hours ago
+72.210.221.223:4145	SOCKS5	Elite (HIA)	United States	ip72-210-221-223.ph.ph.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	2.161	100%		12 hours ago
+51.79.248.215:25693	SOCKS5	Elite (HIA)	Singapore (Singapore)	vps-d8e86d05.vps.ovh.ca (OVH SAS)	8.986	22%		12 hours ago
+195.149.196.135:1080	SOCKS5	Elite (HIA)	Russia (Trubchëvsk)	fttx-195-149-196-x.trub.net.ru (Satelcom-Service Ltd.)	4.001	15%		13 hours ago
+98.188.47.150:4145	SOCKS5	Elite (HIA)	United States (Omaha)	98.188.47.150 (ASN-CXA-ALL-CCI-22773-RDC)	1.323	79%		14 hours ago
+72.195.114.169:4145	SOCKS5	Elite (HIA)	United States	ip72-195-114-169.oc.oc.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.336	74%		14 hours ago
+98.162.25.16:4145	SOCKS5	Elite (HIA)	United States	ip98-162-25-16.om.om.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.362	98%		14 hours ago
+51.222.12.245:10084	SOCKS5	Elite (HIA)	Canada	vps-7abefab8.vps.ovh.ca (OVH SAS)	7.58	16%		14 hours ago
+72.221.171.135:4145	SOCKS5	Elite (HIA)	United States	ip72-221-171-135.sd.sd.cox.net (ASN-CXA-ALL-CCI-22773-RDC)	1.26	92%		14 hours ago
+165.227.111.130:4003	SOCKS5	Elite (HIA)	United States (Clifton)	ac18433.comunidade-da-biblia (DIGITALOCEAN-ASN)	19.439	25%		14 hours ago
+98.170.57.249:4145	SOCKS5	Elite (HIA)	United States	98.170.57.249 (ASN-CXA-ALL-CCI-22773-RDC)	1.353	97%		14 hours ago
+24.249.199.12:4145	SOCKS5	Elite (HIA)	United States (Pensacola)	24.249.199.12 (ASN-CXA-ALL-CCI-22773-RDC)	1.347	82%		14 hours ago
+68.71.247.130:4145	SOCKS5	Elite (HIA)	United States	68.71.247.130 (ZEROLAG)	1.905	76%		16 hours ago
+88.80.190.32:11189	SOCKS5	Elite (HIA)	United Kingdom (London)	li702-32.members.linode.com (Linode, LLC)	2.502	33%		16 hours ago
+94.23.4.127:8444	SOCKS5	Elite (HIA)	France	ks365413.kimsufi.com (OVH SAS)	18.463	21%		16 hours ago
+173.248.13.165:8111	SOCKS5	Elite (HIA)	United States (Dallas)	Mosaic-DAL13-DHCP.165 (CHIBARDUN-TEL)	20.365	new -		16 hours ago
+121.91.230.53:18738	SOCKS5	Elite (HIA)	United States (Sterling)	121.91.230.53 (UUNET)	8.131	new -		16 hours ago
+194.71.23.86:49153	SOCKS5	Elite (HIA)	Norway (Oslo) !!!	194.71.23.86 (Internet Vikings International AB)	2.935	20%		16 hours ago
+103.169.7.87:6666	SOCKS5	Elite (HIA)	Indonesia (Boyolali)	103.169.7.87 (PT Bukuku Solusi Kreatif)	2.679	14%		17 hours ago
+107.180.107.199:17082	SOCKS5	Elite (HIA)	United States (Ashburn)	199.107.180.107.host.secureserver.net (AS-26496-GO-DADDY-COM-LLC)	4.516	50%		17 hours ago
+68.65.60.234:8111	SOCKS5	Elite (HIA)	United States (Bruce)	AIRSTREAM-BRUCE-BRUCE-BB-DHCP-DSL-007-234.dsl.airstreamcomm.net (AIRSTREAMCOMM-NET)	1.021	50%		18 hours ago
+104.131.118.147:63620	SOCKS5	Elite (HIA)	United States (Clifton)	ac18760.pc02 (DIGITALOCEAN-ASN)	2.467	20%		18 hours ago
+165.154.46.128:63225	SOCKS5	Elite (HIA)	Hong Kong (Central)	165.154.46.128 (UCLOUD INFORMATION TECHNOLOGY HK LIMITED)	22.942	16%		18 hours ago
+206.145.24.63:8111	SOCKS5	Elite (HIA)	United States (Trimont)	206.145.24.63 (BEVCOMM-AS1)	1.342	new -		18 hours ago
+143.248.55.62:15566	SOCKS5	Elite (HIA)	South Korea (Yuseong-gu) !!!	143.248.55.62 (Korea Advanced Institute of Science and Technology)	15.542	23%		18 hours ago
+70.166.167.55:57745	SOCKS5	Elite (HIA)	United States (Phoenix)	70.166.167.55 (ASN-CXA-ALL-CCI-22773-RDC)	1.265	85%		18 hours ago
+216.249.207.101:8111	SOCKS5	Elite (HIA)	United States (Brandon)	101-207-249-216.alliancecom.net (SDNW-13576)	1.117	50%		18 hours ago
+66.42.224.229:41679	SOCKS5	Elite (HIA)	United States (Cincinnati)
